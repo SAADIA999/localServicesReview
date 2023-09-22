@@ -3,9 +3,14 @@ const jwtMiddleware = require('../handlers/jwtMiddleware');
 const { body, validationResult } = require('express-validator');
 const { readDataFromFile, writeDataToFile } = require('../handlers/dataHandler');
 const router = express.Router();
+// const home = require('..views/home.js');
+// app.set('views', path.join(__dirname, 'views')); // Assuming your views are in a 'views' directory
+
 
 // get home page and display all services from services.json
-router.get('/', );
+router.get('/',(req,res)=>{
+    // res.render('home');
+} );
 
 // get service dashboard page - Protected by JWT
 router.get('/services',);
