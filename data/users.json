@@ -1,4 +1,10 @@
-{
-  "email": "saadiamoussaoui85@gmail.com",
-  "password": "$2a$10$YmQE0NtKRJBLHimtF6ODQ.SD5KxXVjTHQ.zrpDzIsAZdy94vhJYZC"
-}
+[
+  {
+    "email": "saadia1@saadia.com",
+    "password": "$2a$10$cN0uJToD3.ftACjBUXStVeHXnnatzPpEEmCuGPYr/DI2NEhi62iJe"
+  },
+  {
+    "email": "raja@raja.com",
+    "password": "$2a$10$o9CnFuNlAfxZQnzGSz501eldrk9EkQl2yFTl67/la5w2aWjVEiV0a"
+  }
+]
